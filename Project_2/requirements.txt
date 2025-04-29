@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+hmmlearn
+matplotlib
+xgboost
+tensorflow
+seaborn
+ruptures
