@@ -1,0 +1,14 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.13.2
+  - pip
+  - scikit-learn=1.6.1
+  - imbalanced-learn
+  - pandas
+  - numpy
+  - pip:
+      - joblib
+      - azureml-inference-server-http
+name: insurance-env

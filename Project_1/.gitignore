@@ -1,3 +1,5 @@
 /trained_models
 /valid.csv
 /omega
+/fastapi_format.py
+/request.json

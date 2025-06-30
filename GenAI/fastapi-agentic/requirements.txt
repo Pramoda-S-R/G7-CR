@@ -1,0 +1,5 @@
+fastapi[standard]
+pydantic
+weaviate-client
+langchain
+langchain-openai

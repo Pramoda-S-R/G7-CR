@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "Insurance Company": "22",
+      "CPT4 - Procedure": "50590",
+      "Mod 1": "RT",
+      "Mod 2": "",
+      "Diag 1": "N20.0",
+      "Diag 2": "",
+      "Modality": "Urinary",
+      "Place Of Serv": "Outpatient Hospital",
+      "Actual Result": ""
+    },
+    {
+      "Insurance Company": "21",
+      "CPT4 - Procedure": "51702",
+      "Mod 1": "",
+      "Mod 2": "",
+      "Diag 1": "C61",
+      "Diag 2": "",
+      "Modality": "Urinary",
+      "Place Of Serv": "Office",
+      "Actual Result": "Denied"
+    },
+    {
+      "Insurance Company": "21",
+      "CPT4 - Procedure": "51798",
+      "Mod 1": "",
+      "Mod 2": "",
+      "Diag 1": "C61",
+      "Diag 2": "",
+      "Modality": "DHS",
+      "Place Of Serv": "Office",
+      "Actual Result": "Denied"
+    },
+    {
+      "Insurance Company": "2",
+      "CPT4 - Procedure": "51798",
+      "Mod 1": "",
+      "Mod 2": "",
+      "Diag 1": "N30.01",
+      "Diag 2": "N32.81",
+      "Modality": "DHS",
+      "Place Of Serv": "Office",
+      "Actual Result": ""
+    }
+  ]
+}
